@@ -9,7 +9,7 @@ def aciklama_cek(url):
     response = requests.get(url, verify=False)
     soup = BeautifulSoup(response.content, "html.parser")
     p_etiketi = soup.find("p")
-    return p_etiketi.text if p_etiketi else "Kısa açıklama bulunamadı..."
+    return p_etiketi.text if p_etiketi else "Kısa açıklama bulunamadı...."
 
 
 def url_cek(site_url):
