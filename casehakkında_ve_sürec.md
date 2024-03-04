@@ -1,0 +1,7 @@
+Burak Soylu
+
+Case hakkındaki düşüncelerim şu şekilde: İlk başlarda öğrendiğim bilgilerin taze olmaması ve akılda kaldığı kadarıyla bir projeye başlayacak olmam nedeniyle zorlanacağımı düşünmüştüm. Ve gerçekten öyle oldu. Kodları yazarken ilk başta hangi kütüphaneleri kullanacağıma karar verdikten sonra, bilgilerimin pek taze olmadığını fark ettim. Bu nedenle konuyla ilgili tekrar yapmaya karar verdim.
+
+İlk olarak, basit düşünerek benden istenilen birden fazla haber kaynağını çekmek yerine, ilk başta tek bir haber kaynağını çekmeye çalıştım. İlk defa kendi başıma kod yazdığım için yazarken oldukça zorlandım. Daha sonra, konu hakkında yetersiz bilgi sahibi olduğumu fark ettim. Bu nedenle, konu hakkında internet araştırması yaptım, Udemy'deki derslerimi tekrarladım, ChatGPT ile de düzenlemeler yaparak ilk veri çekme işlemini gerçekleştirdim.
+
+Sonrasında, diğer haber kaynağı verilerini nasıl çekeceğim konusunda bir fikrim olmadığı için düşündüm. If-elif sorgularını kullanmayı düşündüm ve tek bir linkten alıp ayrıştırmak istedim. Ancak, bunda çok zorlandım. Bu nedenle, Google Haberler sayfasına gidip benden istenilen başlıklar altındaki dört sayfadaki URL'leri alarak kategoriler oluşturdum. Daha sonra bunlara isimler vererek dosyalarımda çıktı olarak yazdırarak, benden istenilen Python kodlaması olan projemi yazdım.
