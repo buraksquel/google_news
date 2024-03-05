@@ -1,0 +1,14 @@
+"udemy,youtube,chatgpt,python,google" bu site ve kaynakklardan konu ve nasıl tamamlayacağım hakkında bilgiler aldım
+
+udemy : -mustafa murat cosukun- python dersinden kodu yazarken tekrar ettim 
+
+youtube : ilk olarak python kodlaması sonrasında aws üzerinde konu adlı videoları izledim
+
+chatgpt : kodlarımdaki hataları eksikleri ve eklemelerde yardım aldım 
+
+python : aws lambda kısmında requests hatası alıyordum python kısmında requests dowland edip layer kısmına ekledim
+
+google : flowchart,googlenewshaberler,github,aws,bs4 hakkında bilgileri ve proje hakkında araştırmalarımın hepsini buradan bilgilendim
+
+
+özel bir link bırakmak yerine izlediğim yolu ve kullandığım veri başlıklarını yazdım.
