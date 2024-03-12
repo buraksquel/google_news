@@ -1,0 +1,13 @@
+"Udemy, YouTube, ChatGPT, Python ve Google gibi kaynaklardan aldığım bilgilerle projemi tamamladım.
+
+Udemy: Mustafa Murat Coşkun'un Python derslerinden kod yazımını tekrar ettim.
+
+YouTube: İlk olarak Python kodlaması üzerine videolar izledim, ardından AWS üzerinde konuyla ilgili videoları inceledim.
+
+ChatGPT: Kodlarımdaki hataları, eksikleri ve eklemeleri konusunda ChatGPT'den yardım aldım.
+
+Python: AWS Lambda kısmında requests hatası ile karşılaştım. Python kısmında requests kütüphanesini indirip, AWS Lambda'nın layer kısmına ekleyerek sorunu çözdüm.
+
+Google: Flowchart, Google News haberleri, GitHub, AWS ve Beautiful Soup (bs4) konularında bilgiler edinip, projeyle ilgili araştırmalarımı buradan gerçekleştirdim.
+
+Özel bir link bırakmak yerine, izlediğim yolları ve kullandığım kaynakları belirttim."
